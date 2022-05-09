@@ -1,0 +1,14 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+.nav {
+  position: fixed;
+  width: 100vw;
+  background: transparent !important;
+}
+.navcont {
+  justify-content: space-around;
+  padding-left: 50px;
+  padding-right: 50px;
+}
